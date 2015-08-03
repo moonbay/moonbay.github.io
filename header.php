@@ -1,5 +1,5 @@
 <header>
-	<table width="900px">
+	<table style="width:900px;">
 		<tr>
 		<td>
 			<h1
